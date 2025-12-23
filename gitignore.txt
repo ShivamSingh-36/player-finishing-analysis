@@ -1,0 +1,41 @@
+# R Files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (CSV is too large for GitHub)
+Final.csv
+*.csv
+
+# Shiny deployment
+rsconnect/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# R package build
+*.tar.gz
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# Screenshots (optional - remove if you want to include them)
+# screenshots/
